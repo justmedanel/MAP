@@ -1,9 +1,17 @@
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
+
 
 using namespace std;
 
 int main(){
-    cout << "Hello World!" << endl;
-
+    int m,n;
+    cout <<"Introdu nr de linii: ";
+    cin >> m;
+    cout << "Introdu nr de coloane: ";
+    cin >> n;
+    int matrice[m][n];
+    
     return 0;
 }
