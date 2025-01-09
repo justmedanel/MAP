@@ -17,4 +17,4 @@ respectiv sub diagonala secundară.
 ### 2. Calculam suma diagonalelor
 - Calculam suma diagonalei principale
 - Calculam suma diagonalei secundare
-![DiagprincipalaDiagsecundara](http://doneprojects.blogspot.com/2013/05/ce-este-o-matrice-patratica-diagonala.html)
+![DiagprincipalaDiagsecundara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9qSlVhqmcW8ammArdlyoKEfmBRS3U5djCsW-vuiYj3Tm39T32TQk31lMbWUa2Bso5F2oEqWLwiYV8-Qw6MOL9IeoWhBd3yiJc1QCAzaL5aZbE9XEw3CV6DsU8ETm66xCKT0xiDuBhY8c/s1600/patratica.png)
