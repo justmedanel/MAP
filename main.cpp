@@ -32,6 +32,15 @@ int main(){
         }
         cout << endl;
     }
+    int sumaDiagPrincipala = 0;
+    int sumaDiagSecundara = 0;
+
+    for(int i = 0; i< m; i++){
+        sumaDiagPrincipala += matrice[i][i];
+        sumaDiagSecundara += matrice[i][m-i-1];
+    }
+    cout << "Suma elementelor pe diagonala principala: " << sumaDiagPrincipala << endl;
+    cout << "Suma elementelor pe diagonala secundara: " << sumaDiagSecundara << endl;
 
     return 0;
 }
